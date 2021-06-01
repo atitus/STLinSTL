@@ -15,4 +15,4 @@ We have moved from the information age into the data analytics age. Data-driven 
 4. Applications
   - [Allometry](https://colab.research.google.com/github/atitus/STLinSTL/blob/master/workshop2/04-applications/allometry.ipynb)
   - [Gaussian Distribution](https://colab.research.google.com/github/atitus/STLinSTL/blob/master/workshop2/04-applications/gaussian.ipynb)
-5. [Python as a Calculator](https://colab.research.google.com/github/atitus/STLinSTL/blob/master/workshop2/05-python-calc/05-python-calc.ipynb)tus/STLinSTL/blob/master/workshop2/05-python-calc/05-python-calc.ipynb)
+5. [Python as a Calculator](https://colab.research.google.com/github/atitus/STLinSTL/blob/master/workshop2/05-python-calc/05-python-calc.ipynb)

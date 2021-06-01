@@ -36,4 +36,4 @@ It's old math -- [Euler method](https://www.youtube.com/watch?v=v-pbGAts_Fg), in
 4. Monte Carlo Models
   - [Monte Carlo](https://colab.research.google.com/github/atitus/STLinSTL/blob/main/workshop1/04-monte-carlo/monte-carlo.ipynb) 
   - [Fundraiser Game](https://colab.research.google.com/github/atitus/STLinSTL/blob/main/workshop1/04-monte-carlo/game.ipynb) 
-5. [Python as a Calculator](https://colab.research.google.com/github/atitus/STLinSTL/blob/master/workshop1/05-python-calc/05-python-calc.ipynb)tus/STLinSTL/blob/master/workshop2/05-python-calc/05-python-calc.ipynb)
+5. [Python as a Calculator](https://colab.research.google.com/github/atitus/STLinSTL/blob/master/workshop1/05-python-calc/05-python-calc.ipynb)
