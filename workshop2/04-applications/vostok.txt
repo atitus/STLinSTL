@@ -1,5 +1,4 @@
-age	∆T	CO₂	dust
-(ybp)	(°C)	(ppm)	(ppm)
+Age of air (ybp)	Temperature anomaly (deg. C)	Carbon dioxide concentration (ppm)	Dust concentration (ppm)
 2342	-1.21	284.7	
 2374	-1.44	284.3033333	
 2418	-0.73	283.9066667	
